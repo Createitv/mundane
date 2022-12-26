@@ -1,4 +1,4 @@
-const arr = ['a', 'b', 'c', 'd']
+const arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
 
 if (!Array.prototype.removeLast) {
   Array.prototype.removeLast = function () {
