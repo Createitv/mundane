@@ -21,3 +21,8 @@ const result = arr.removeLast()
 
 console.log(arr) // 👉️ ['a', 'b', 'c']
 console.log(arr.count)
+
+const num: string = 'cool'
+let mundane: string = 'cool'
+export default mundane
+export { num }
