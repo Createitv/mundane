@@ -12,7 +12,7 @@
   "author": "createitv <xfy150150@163.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Createitv/ts-library-template"
+    "url": "https://github.com/Createitv/mundane"
   },
   "license": "MIT",
   "engines": {
